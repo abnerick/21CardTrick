@@ -7,12 +7,14 @@ This is a project written in C (gcc Linux) of the 21 Card Trick, you can learn a
 Compiling
 =========
 There is three files to compile executing  
+
      gcc -o trick Trick.h Trick.c main.c
 
 Usage
 =========
 Just start the program   
-      ./trick
+
+     ./trick
 
 Example
 =========
