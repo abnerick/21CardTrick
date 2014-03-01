@@ -18,7 +18,7 @@ Just start the program
 
 Example
 =========
-Check this example where I choose the K♣
+Check this example where I chose the K♣
 <img src="/21cardtrick.png">
 
 Documentation
